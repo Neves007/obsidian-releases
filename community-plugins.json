@@ -24106,5 +24106,12 @@
     "author": "imavinash",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Copy a citation with file link, line numbers, and a custom prompt for AI agents.",
     "repo": "avinashkanaujiya/obsidian-agentic-note-references"
+  },
+  {
+    "id": "lineref-copier",
+    "name": "LineRef Copier",
+    "author": "Neves Lee",
+    "description": "Copy AI-friendly Markdown location indexes as file path plus line number.",
+    "repo": "Neves007/line-ref-copier"
   }
 ]
